@@ -1,2 +1,3 @@
-# CLI_app
-Simple CLI application written in Python
+#Python CLI
+
+#some basic statistical calculations on customer purchase data via a CLI-based application.
